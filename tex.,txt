@@ -1,0 +1,4 @@
+npm init -y for getting pakage .json
+corss origin is a protocol used to share resourse b/w backend and frontend  
+for installng both use terminl and
+ npm i json-server cors
